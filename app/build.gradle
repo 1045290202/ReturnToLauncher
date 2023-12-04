@@ -5,8 +5,8 @@ plugins {
 
 android {
     namespace 'com.sjk.returntolauncher'
-    compileSdkVersion 34
-    buildToolsVersion "33.0.1"
+    compileSdk 34
+//    buildToolsVersion "33.0.1"
 
     defaultConfig {
         applicationId "com.sjk.returntolauncher"
